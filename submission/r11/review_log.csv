@@ -1,0 +1,4 @@
+image,type,verdict,note
+000000006012,bbox_drift,confirmed,"Hoàng Minh Hải (@haihm) — Box detection lệch sang trái và xuống dưới, cắt mất đầu và mép phải của phần chuối bên phải."
+000000006213,category_swap,confirmed,"Hoàng Minh Hải (@haihm) — Vùng được khoanh là bồn rửa có vòi trên bàn phòng tắm. Detection ghi sink, panoptic ghi frisbee."
+000000007784,class_swap,confirmed,"Hoàng Minh Hải (@haihm) — Vật trên trời là diều cánh cong màu đỏ trắng có dây. Panoptic ghi kite, detection ghi bird."
